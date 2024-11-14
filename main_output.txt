@@ -1,0 +1,78 @@
+
+Inventory System Menu
+1. Add Item
+2. Update Quantity
+3. Retrieve Item
+4. Calculate Total Quantity
+5. Exit
+Enter your choice: 
+1
+Enter item name: 
+Books
+Enter quantity: 
+5
+5 Books(s) added to inventory.
+
+Inventory System Menu
+1. Add Item
+2. Update Quantity
+3. Retrieve Item
+4. Calculate Total Quantity
+5. Exit
+Enter your choice: 
+2
+Enter item name to update: 
+Books
+Enter new quantity: 
+15
+Quantity of Books updated to 15.
+
+Inventory System Menu
+1. Add Item
+2. Update Quantity
+3. Retrieve Item
+4. Calculate Total Quantity
+5. Exit
+Enter your choice: 
+1
+Enter item name: 
+Pens
+Enter quantity: 
+30
+30 Pens(s) added to inventory.
+
+Inventory System Menu
+1. Add Item
+2. Update Quantity
+3. Retrieve Item
+4. Calculate Total Quantity
+5. Exit
+Enter your choice: 
+4
+Total quantity of all items: 45
+
+Inventory System Menu
+1. Add Item
+2. Update Quantity
+3. Retrieve Item
+4. Calculate Total Quantity
+5. Exit
+Enter your choice: 
+3
+Enter item name to retrieve: 
+Books
+Books: 15
+
+Inventory System Menu
+1. Add Item
+2. Update Quantity
+3. Retrieve Item
+4. Calculate Total Quantity
+5. Exit
+Enter your choice: 
+5
+Exiting inventory system.
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
